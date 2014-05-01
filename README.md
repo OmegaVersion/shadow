@@ -40,3 +40,4 @@ github : https://github.com/monkee/shadow
 课程的讲义部分在：  
 [https://github.com/monkee/lessons/tree/master/如何写好一个PHP的类](https://github.com/monkee/lessons/tree/master/如何写好一个PHP的类)  
 给位可自行前往~
+OmegaVersion
